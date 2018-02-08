@@ -1,5 +1,7 @@
-package me.badbones69.crazyenchantments.api.events;
+package me.badbones69.crazyenchantments.controlers;
 
+import me.badbones69.crazyenchantments.api.enums.ArmorType;
+import me.badbones69.crazyenchantments.api.events.ArmorEquipEvent;
 import me.badbones69.crazyenchantments.api.events.ArmorEquipEvent.EquipMethod;
 import me.badbones69.crazyenchantments.multisupport.Version;
 import org.bukkit.Bukkit;

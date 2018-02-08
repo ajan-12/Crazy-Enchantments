@@ -8,7 +8,7 @@ import me.badbones69.crazyenchantments.multisupport.SpartanSupport;
 import me.badbones69.crazyenchantments.multisupport.Support;
 import me.badbones69.crazyenchantments.multisupport.Support.SupportedPlugins;
 import me.badbones69.crazyenchantments.multisupport.Version;
-import me.badbones69.crazyenchantments.multisupport.nms.*;
+import me.badbones69.crazyenchantments.multisupport.nms.NMS_v1_7_R4;
 import me.badbones69.crazyenchantments.multisupport.particles.ParticleEffect;
 import org.bukkit.*;
 import org.bukkit.command.CommandSender;
